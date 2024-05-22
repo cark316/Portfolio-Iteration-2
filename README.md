@@ -1,30 +1,13 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Second design for portfolio, including marquee animations however some issues with the horizontal marquees.
 
-Currently, two official plugins are available:
+GSAP Timeline animation practice, marquee library used.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![portfol-2-1](https://github.com/cark316/Portfolio-Iteration-2/assets/134771426/0c9089ab-c2ca-4e87-9e18-3ae4ffb3d7df)
 
-## Expanding the ESLint configuration
+![portf-2-2](https://github.com/cark316/Portfolio-Iteration-2/assets/134771426/83e883a9-695d-4e1f-b8a8-738d3616271e)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+![portf-2-3](https://github.com/cark316/Portfolio-Iteration-2/assets/134771426/a174c4f4-6c2b-4e31-91be-fd303f14ab30)
 
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![port-it-2-anim](https://github.com/cark316/Portfolio-Iteration-2/assets/134771426/39920189-7c02-4080-a9fa-6fe4010e3bdb)
