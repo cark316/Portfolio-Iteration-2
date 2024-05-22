@@ -2,7 +2,7 @@
 
 Second design for portfolio, including marquee animations however some issues with the horizontal marquees.
 
-GSAP Timeline animation practice, marquee library used.
+GSAP Timeline animation practice, shadCN component library & marquee library used.
 
 ![portfol-2-1](https://github.com/cark316/Portfolio-Iteration-2/assets/134771426/0c9089ab-c2ca-4e87-9e18-3ae4ffb3d7df)
 
